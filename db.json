@@ -1,15 +1,7 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello world"
-    },
-    {
-      "id": 2,
-      "title": "json server"
-    },
-  ],
-  "profile": {
-    "name": "Philip"
-  }
+    { "id": 1, "title": "Hello, World!" },
+    { "id": 2, "title": "JSON Server is awesome!" }
+  ]
 }
+
